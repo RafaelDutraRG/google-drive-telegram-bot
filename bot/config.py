@@ -1,4 +1,4 @@
-class config:
+class config:1
     BOT_TOKEN = "1899148866:AAFQqWIZcv3ncLYi5sZw3ymp6DYaXwxhkOA"
     APP_ID = "7160884"
     API_HASH = "893f6ca7de30bea0b3e0b36d7718102a"
